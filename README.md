@@ -27,7 +27,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
   
 ---
 
