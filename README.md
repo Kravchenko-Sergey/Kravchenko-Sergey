@@ -6,7 +6,7 @@
 <!-- /HEARER -->
 
 <div align="center">
-    <a href="https://skyline.github.com/PasterZOOM/2022" target="_blank">
+    <a href="https://skyline.github.com/Kravchenko-Sergey" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kravchenko-Sergey&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
              title="Kravchenko-Sergey" 
              alt="Kravchenko-Sergey"
